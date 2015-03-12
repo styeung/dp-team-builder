@@ -1,0 +1,9 @@
+" Press ? for help
+
+.. (up a dir)
+<ung/workspace/dp-team-builder/
+▾ lib/
+    builder.rb
+▾ spec/
+    builder_spec.rb
+    spec_helper.rb
